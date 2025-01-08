@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\bin\Debug\net9.0\19matriz.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\bin\Debug\net9.0\19matriz.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\bin\Debug\net9.0\19matriz.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\bin\Debug\net9.0\19matriz.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\bin\Debug\net9.0\19matriz.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\refint\19matriz.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\19matriz.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\19matriz\obj\Debug\net9.0\ref\19matriz.dll

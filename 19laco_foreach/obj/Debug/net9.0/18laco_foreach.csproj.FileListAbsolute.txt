@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\bin\Debug\net9.0\18laco_foreach.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\bin\Debug\net9.0\18laco_foreach.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\bin\Debug\net9.0\18laco_foreach.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\bin\Debug\net9.0\18laco_foreach.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\bin\Debug\net9.0\18laco_foreach.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\refint\18laco_foreach.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\18laco_foreach.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\18laco_foreach\obj\Debug\net9.0\ref\18laco_foreach.dll

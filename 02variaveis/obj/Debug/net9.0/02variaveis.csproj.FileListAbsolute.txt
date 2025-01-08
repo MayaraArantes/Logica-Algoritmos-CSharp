@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\bin\Debug\net9.0\02variaveis.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\bin\Debug\net9.0\02variaveis.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\bin\Debug\net9.0\02variaveis.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\bin\Debug\net9.0\02variaveis.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\bin\Debug\net9.0\02variaveis.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\refint\02variaveis.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\02variaveis.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\02variaveis\obj\Debug\net9.0\ref\02variaveis.dll

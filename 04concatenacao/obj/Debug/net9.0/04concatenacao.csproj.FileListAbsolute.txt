@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\bin\Debug\net9.0\04concatenacao.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\bin\Debug\net9.0\04concatenacao.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\bin\Debug\net9.0\04concatenacao.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\bin\Debug\net9.0\04concatenacao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\bin\Debug\net9.0\04concatenacao.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\refint\04concatenacao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\04concatenacao.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\04concatenacao\obj\Debug\net9.0\ref\04concatenacao.dll

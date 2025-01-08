@@ -1,0 +1,4 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\14estrutura_escolha\obj\Debug\net9.0\14estrutura_escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\14estrutura_escolha\obj\Debug\net9.0\14estrutura_escolha.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\14estrutura_escolha\obj\Debug\net9.0\14estrutura_escolha.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\14estrutura_escolha\obj\Debug\net9.0\14estrutura_escolha.csproj.CoreCompileInputs.cache

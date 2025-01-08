@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\bin\Debug\net9.0\06conversao.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\bin\Debug\net9.0\06conversao.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\bin\Debug\net9.0\06conversao.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\bin\Debug\net9.0\06conversao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\bin\Debug\net9.0\06conversao.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\refint\06conversao.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\06conversao.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\06conversao\obj\Debug\net9.0\ref\06conversao.dll

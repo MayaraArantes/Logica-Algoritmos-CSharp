@@ -1,0 +1,14 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\bin\Debug\net9.0\17vetor.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\bin\Debug\net9.0\17vetor.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\bin\Debug\net9.0\17vetor.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\bin\Debug\net9.0\17vetor.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\bin\Debug\net9.0\17vetor.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\refint\17vetor.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\17vetor.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\17vetor\obj\Debug\net9.0\ref\17vetor.dll
