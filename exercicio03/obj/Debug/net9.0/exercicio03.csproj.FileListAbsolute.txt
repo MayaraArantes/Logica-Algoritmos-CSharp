@@ -1,0 +1,15 @@
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\bin\Debug\net9.0\exercicio03.exe
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\bin\Debug\net9.0\exercicio03.deps.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\bin\Debug\net9.0\exercicio03.runtimeconfig.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\bin\Debug\net9.0\exercicio03.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\bin\Debug\net9.0\exercicio03.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.sourcelink.json
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\refint\exercicio03.dll
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.pdb
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\exercicio03.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Desktop\Logica e algoritmos - C#\exercicio03\obj\Debug\net9.0\ref\exercicio03.dll
